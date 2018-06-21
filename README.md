@@ -6,8 +6,10 @@ Dibuat dengan :
 3. Javascript
  
 Cara menggunakan : 
-1. Ganti url lokasi folder CI nya. Buka file config, edit sesuai dengan lokasi tempat kalian menyimpan file2 CI nya.
-2. Ganti settingan databse, dan sesuaikan dengan settingan punya kalian
+1. Import Databasenya db_buku_bantu ke localhost mysql
+2. copy folder buku_bantu ke folder htdoct jika menggunakan xampp, jika menggunkan appserv copy folder ke dalam folder www.
+
+jika ada pertanya, silahkan hubungi 082380716707 terimakasih
 
 
 
